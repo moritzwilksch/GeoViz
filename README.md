@@ -22,6 +22,8 @@ Data is downloaded from [geofabrik.de](https://www.geofabrik.de).
 
 ```bash
 make data/download-nc
+mkdir data/nc
+unzip data/nc.shp.zip -d data/nc/
 ```
 
 ### 4. Run script

@@ -5,3 +5,4 @@ fiona
 pyproj
 matplotlib
 seaborn
+black

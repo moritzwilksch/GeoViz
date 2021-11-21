@@ -1,6 +1,7 @@
 #%%
 import geopandas as gpd
 import matplotlib.pyplot as plt
+from numpy import UFUNC_BUFSIZE_DEFAULT
 import seaborn as sns
 
 # import matplotlib_inline
